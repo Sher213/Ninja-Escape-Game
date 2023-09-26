@@ -1,0 +1,30 @@
+Content\Images\Background\CaveBG2.xnb
+Content\Images\Background\CaveBG.xnb
+Content\Sprites\Player Sprites\Ninja Walk Right.xnb
+Content\Sprites\Object Sprites\ninjaStar2.xnb
+Content\Sprites\Object Sprites\platform.xnb
+Content\Sprites\Object Sprites\poof.xnb
+Content\Sprites\Player Sprites\Ninja Ghost Left.xnb
+Content\Sprites\Player Sprites\Ninja Ghost Right.xnb
+Content\Sprites\Object Sprites\starPickup.xnb
+Content\Sprites\Object Sprites\ghostPickup.xnb
+Content\Sprites\Object Sprites\woodenSign.xnb
+Content\Effects\bloodEffect1.xnb
+Content\Effects\bloodEffect2.xnb
+Content\Effects\bloodEffect3.xnb
+Content\Effects\whiteBox.xnb
+Content\Effects\instructions.xnb
+Content\Effects\title.xnb
+Content\Effects\escapeMsg.xnb
+Content\Sprites\NPC Folder\robotEnemy.xnb
+Content\Sprites\NPC Folder\tribeEnemy.xnb
+Content\Texts\Testfont.xnb
+Content\Texts\smallText.xnb
+Content\Texts\ButtonFont.xnb
+Content\Sounds\30 Minutes of Dark Suspense Scary Creepy Horror Music (Instrumental Halloween Music).xnb
+Content\Sounds\30 Minutes of Dark Suspense Scary Creepy Horror Music (Instrumental Halloween Music).wma
+Content\Sounds\Concrete break.xnb
+Content\Sounds\Grunt Sound Effect For Free.xnb
+Content\Sounds\pHit1.xnb
+Content\Sounds\pHit2.xnb
+Content\Sounds\pHit3.xnb

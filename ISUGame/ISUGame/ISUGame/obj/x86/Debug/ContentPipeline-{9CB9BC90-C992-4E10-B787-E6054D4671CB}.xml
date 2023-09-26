@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Background\CaveBG2.png</Source>
+      <Name>Images\Background\CaveBG2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Images\Background\CaveBG2.xnb</Output>
+      <Time>2017-01-05T17:12:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\CaveBG.png</Source>
+      <Name>Images\Background\CaveBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Images\Background\CaveBG.xnb</Output>
+      <Time>2017-01-06T11:15:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Sprites\Ninja Walk Right.png</Source>
+      <Name>Sprites\Player Sprites\Ninja Walk Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Player Sprites\Ninja Walk Right.xnb</Output>
+      <Time>2017-01-09T12:40:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Object Sprites\ninjaStar2.png</Source>
+      <Name>Sprites\Object Sprites\ninjaStar2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\ninjaStar2.xnb</Output>
+      <Time>2017-01-09T13:29:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Object Sprites\platform.png</Source>
+      <Name>Sprites\Object Sprites\platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\platform.xnb</Output>
+      <Time>2017-01-09T16:23:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Object Sprites\poof.png</Source>
+      <Name>Sprites\Object Sprites\poof</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\poof.xnb</Output>
+      <Time>2017-01-10T21:43:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Sprites\Ninja Ghost Left.png</Source>
+      <Name>Sprites\Player Sprites\Ninja Ghost Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Player Sprites\Ninja Ghost Left.xnb</Output>
+      <Time>2017-01-11T13:13:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player Sprites\Ninja Ghost Right.png</Source>
+      <Name>Sprites\Player Sprites\Ninja Ghost Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Player Sprites\Ninja Ghost Right.xnb</Output>
+      <Time>2017-01-11T13:16:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Object Sprites\starPickup.png</Source>
+      <Name>Sprites\Object Sprites\starPickup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\starPickup.xnb</Output>
+      <Time>2017-01-12T12:53:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Object Sprites\ghostPickup.png</Source>
+      <Name>Sprites\Object Sprites\ghostPickup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\ghostPickup.xnb</Output>
+      <Time>2017-01-12T19:51:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Object Sprites\woodenSign.png</Source>
+      <Name>Sprites\Object Sprites\woodenSign</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\woodenSign.xnb</Output>
+      <Time>2017-01-15T15:02:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\bloodEffect1.png</Source>
+      <Name>Effects\bloodEffect1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\bloodEffect1.xnb</Output>
+      <Time>2017-01-16T16:38:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\bloodEffect2.png</Source>
+      <Name>Effects\bloodEffect2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\bloodEffect2.xnb</Output>
+      <Time>2017-01-16T16:38:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\bloodEffect3.png</Source>
+      <Name>Effects\bloodEffect3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\bloodEffect3.xnb</Output>
+      <Time>2017-01-16T16:38:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\whiteBox.jpg</Source>
+      <Name>Effects\whiteBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\whiteBox.xnb</Output>
+      <Time>2017-01-16T18:24:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\instructions.png</Source>
+      <Name>Effects\instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\instructions.xnb</Output>
+      <Time>2017-01-16T18:56:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\title.png</Source>
+      <Name>Effects\title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\title.xnb</Output>
+      <Time>2017-01-16T19:02:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\escapeMsg.png</Source>
+      <Name>Effects\escapeMsg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\escapeMsg.xnb</Output>
+      <Time>2017-01-16T19:47:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\NPC Folder\robotEnemy.png</Source>
+      <Name>Sprites\NPC Folder\robotEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\NPC Folder\robotEnemy.xnb</Output>
+      <Time>2017-01-19T17:28:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\NPC Folder\tribeEnemy.png</Source>
+      <Name>Sprites\NPC Folder\tribeEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\NPC Folder\tribeEnemy.xnb</Output>
+      <Time>2017-01-19T18:12:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Texts\Testfont.spritefont</Source>
+      <Name>Texts\Testfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Texts\Testfont.xnb</Output>
+      <Time>2017-01-09T16:27:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Texts\smallText.spritefont</Source>
+      <Name>Texts\smallText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Texts\smallText.xnb</Output>
+      <Time>2017-01-16T19:10:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Texts\ButtonFont.spritefont</Source>
+      <Name>Texts\ButtonFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Texts\ButtonFont.xnb</Output>
+      <Time>2017-01-16T19:09:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\30 Minutes of Dark Suspense Scary Creepy Horror Music (Instrumental Halloween Music).mp3</Source>
+      <Name>Sounds\30 Minutes of Dark Suspense Scary Creepy Horror Music (Instrumental Halloween Music)</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\30 Minutes of Dark Suspense Scary Creepy Horror Music (Instrumental Halloween Music).xnb</Output>
+      <Extra>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\30 Minutes of Dark Suspense Scary Creepy Horror Music (Instrumental Halloween Music).wma</Extra>
+      <Time>2017-01-17T17:37:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Concrete break.mp3</Source>
+      <Name>Sounds\Concrete break</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\Concrete break.xnb</Output>
+      <Time>2017-01-18T12:43:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Grunt Sound Effect For Free.wav</Source>
+      <Name>Sounds\Grunt Sound Effect For Free</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\Grunt Sound Effect For Free.xnb</Output>
+      <Time>2017-01-18T13:26:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\pHit1.wav</Source>
+      <Name>Sounds\pHit1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\pHit1.xnb</Output>
+      <Time>2017-01-18T16:15:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\pHit2.wav</Source>
+      <Name>Sounds\pHit2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\pHit2.xnb</Output>
+      <Time>2017-01-18T16:15:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\pHit3.wav</Source>
+      <Name>Sounds\pHit3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\pHit3.xnb</Output>
+      <Time>2017-01-18T16:15:34-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{9CB9BC90-C992-4E10-B787-E6054D4671CB}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGameContent\</RootDirectory>
+      <LoggerRootDirectory>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-11-29T10:00:44.8373366-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

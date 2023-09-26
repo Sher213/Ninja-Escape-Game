@@ -1,0 +1,2 @@
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGameContent\obj\x86\Debug\ISUGameContent.contentprojResolveAssemblyReference.cache
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGameContent\obj\x86\Debug\ISUGameContent.contentprojResolveAssemblyReference.cache

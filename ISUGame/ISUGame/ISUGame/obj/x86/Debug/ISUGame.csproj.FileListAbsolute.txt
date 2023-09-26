@@ -1,0 +1,72 @@
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\ISUGame.exe
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\ISUGame.pdb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\obj\x86\Debug\ISUGame.csprojResolveAssemblyReference.cache
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\obj\x86\Debug\ISUGame.exe
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\obj\x86\Debug\ISUGame.pdb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Images\Background\CaveBG2.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Images\Background\CaveBG.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Player Sprites\Ninja Walk Right.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\ninjaStar2.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\platform.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Texts\Testfont.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\NPC Folder\robotEnemy.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\poof.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Player Sprites\Ninja Ghost Right.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Player Sprites\Ninja Ghost Left.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\starPickup.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Texts\smallText.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\ghostPickup.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\woodenSign.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\bloodEffect1.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\bloodEffect2.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\bloodEffect3.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\whiteBox.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Texts\ButtonFont.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\instructions.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\title.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\escapeMsg.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\30 Minutes of Dark Suspense Scary Creepy Horror Music (Instrumental Halloween Music).xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\30 Minutes of Dark Suspense Scary Creepy Horror Music (Instrumental Halloween Music).wma
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\Concrete break.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\Grunt Sound Effect For Free.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\pHit1.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\pHit2.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\pHit3.xnb
+G:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\NPC Folder\tribeEnemy.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Images\Background\CaveBG2.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Images\Background\CaveBG.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Player Sprites\Ninja Walk Right.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\ninjaStar2.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\platform.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\poof.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Player Sprites\Ninja Ghost Left.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Player Sprites\Ninja Ghost Right.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\starPickup.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\ghostPickup.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\Object Sprites\woodenSign.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\bloodEffect1.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\bloodEffect2.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\bloodEffect3.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\whiteBox.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\instructions.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\title.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Effects\escapeMsg.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\NPC Folder\robotEnemy.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sprites\NPC Folder\tribeEnemy.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Texts\Testfont.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Texts\smallText.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Texts\ButtonFont.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\30 Minutes of Dark Suspense Scary Creepy Horror Music (Instrumental Halloween Music).xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\Concrete break.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\Grunt Sound Effect For Free.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\pHit1.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\pHit2.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\pHit3.xnb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\Content\Sounds\30 Minutes of Dark Suspense Scary Creepy Horror Music (Instrumental Halloween Music).wma
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\ISUGame.exe
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\bin\x86\Debug\ISUGame.pdb
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\obj\x86\Debug\ISUGame.csprojResolveAssemblyReference.cache
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\obj\x86\Debug\ISUGame.exe
+E:\ICS3\Assignments\Programming\ISU\ISUGame\ISUGame\ISUGame\obj\x86\Debug\ISUGame.pdb
